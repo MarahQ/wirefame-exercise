@@ -1,0 +1,20 @@
+header nav{text-align: right;
+}
+header nav a {
+    padding: 10px 20px;
+    display: inline-block;
+    transition: all 500ms;
+  }
+body {
+    width: 960px;
+    margin: auto;
+  }
+.imgs{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+  }
+  section{
+      position: relative;
+      align-items: right;
+  }
